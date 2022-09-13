@@ -1,0 +1,22 @@
+{
+  "name": "one-click-travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asperaadastra/One-Click-Travel.git"
+  },
+  "author": "Aspera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asperaadastra/One-Click-Travel/issues"
+  },
+  "homepage": "https://github.com/asperaadastra/One-Click-Travel#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
